@@ -1,4 +1,4 @@
-include <stdio.h> /* printf */
+#include <stdio.h> /* printf */
 #include <stdlib.h> /* exit */
 #include <unistd.h> /* fork */
 #include <sys/wait.h> /* waitpid */
